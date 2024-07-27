@@ -1,0 +1,17 @@
+{
+  "name": "cms-system",
+  "version": "1.0.0",
+  "description": "Cms system for blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cms-system",
+    "blog",
+    "blog-system",
+    "cms"
+  ],
+  "author": "Alex Rutkovskiy",
+  "license": "MIT"
+}
